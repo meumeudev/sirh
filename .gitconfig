@@ -1,0 +1,5 @@
+[filesystem "Ubuntu|11.0.10|/dev/sda1"]
+	timestampResolution = 11000 nanoseconds
+	minRacyThreshold = 4901 microseconds
+[user]
+	email = modou2015diop@gmail.com
